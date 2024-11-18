@@ -1,9 +1,5 @@
 
 
-
-
-
-
 import { WeatherData, ForecastData } from "../types/weather";
 
 const API_KEY = import.meta.env.VITE_APP_WEATHER_API_KEY || "";
